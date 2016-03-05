@@ -1,0 +1,5 @@
+*.gpg
+secret
+config.json
+*.pyc
+lib
